@@ -14,4 +14,4 @@ Members:
 
 
 
-There are four folders corresponding to every one of the taks. 
+There are three folders corresponding to every one of the taks. 
